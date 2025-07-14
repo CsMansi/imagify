@@ -3,20 +3,20 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-  "dev": "concurrently \"npm run dev --prefix client\" \"npm run dev --prefix server\""
-},
+    "dev": "concurrently \"npm run dev --prefix client\" \"npm run dev --prefix server\""
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sakshidotexee/imagify.git"
+    "url": "git+https://github.com/CsMansi/imagify.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Mansi Pant",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sakshidotexee/imagify/issues"
+    "url": "https://github.com/CsMansi/imagify/issues"
   },
-  "homepage": "https://github.com/Sakshidotexee/imagify#readme",
-  "description": "",
+  "homepage": "https://github.com/CsMansi/imagify#readme",
+  "description": "A full-stack text-to-image generator using React and Node.js.",
   "devDependencies": {
     "concurrently": "^9.2.0"
   }
