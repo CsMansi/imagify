@@ -25,3 +25,11 @@ Imagify is a full-stack web application that allows users to convert text into A
 ### Clone Repository
 ```bash
 git clone https://github.com/CsMansi/imagify.git
+
+### Install Dependencies
+
+- **Frontend Setup**
+```bash
+cd client
+npm install
+
