@@ -34,7 +34,6 @@ cd client
 npm install
 
 - **Backend Setup**
-
 ```bash
 cd server
 npm install
