@@ -1,0 +1,23 @@
+{
+  "name": "imagifying",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "concurrently \"npm run dev --prefix client\" \"npm run dev --prefix server\""
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sakshidotexee/imagify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sakshidotexee/imagify/issues"
+  },
+  "homepage": "https://github.com/Sakshidotexee/imagify#readme",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^9.2.0"
+  }
+}
