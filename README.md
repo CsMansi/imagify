@@ -18,7 +18,6 @@ Imagify is a full-stack web application that allows users to convert text into A
 - **Database:** MongoDB (Mongoose)
 - **Authentication:** Google OAuth 2.0
 - **Payments:** Razorpay Payment Gateway
-- **Image Generation API:** Stability AI API / OpenAI DALL·E (Edit based on your project)
 
 ## 🚀 Getting Started
 
