@@ -33,3 +33,8 @@ git clone https://github.com/CsMansi/imagify.git
 cd client
 npm install
 
+- **Backend Setup**
+
+```bash
+cd server
+npm install
