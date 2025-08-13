@@ -25,6 +25,3 @@
 - 🎨 **Responsive UI** – Fully responsive design with Tailwind CSS
 
 ---
-
-## 📂 Project Structure
-
